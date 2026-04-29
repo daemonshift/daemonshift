@@ -8,6 +8,13 @@ Développeur web en reconversion, je reconstruis mes bases à travers des projet
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+
+## 🧪 Bonnes pratiques
+- Tests unitaires avec **Vitest**
+- Fonctions pures et logique testable
+- `.gitignore` et structure de projet propre
+- Commits conventionnels sur chaque projet
 
 ## 📂 Projets en cours
 - 🧱 [parcours-dev](https://github.com/daemonshift/parcours-dev) — Mes exercices et mini-projets progressifs
@@ -15,4 +22,3 @@ Développeur web en reconversion, je reconstruis mes bases à travers des projet
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=daemonshift&show_icons=true&theme=dark)
--->
