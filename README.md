@@ -31,4 +31,5 @@ Professionnel en reconversion structurée vers la création de produits numériq
 - 📋 [crm-consultants](https://github.com/daemonshift/crm-consultants) — PRD de mon projet SaaS
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daemonshift&layout=compact&theme=dark&hide_border=true)
