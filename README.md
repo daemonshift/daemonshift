@@ -11,6 +11,8 @@ Professionnel en reconversion structurée vers la création de produits numériq
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![No-Code](https://img.shields.io/badge/No--Code%20%26%20IA-8B5CF6?style=flat&logo=notion&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Bubble](https://img.shields.io/badge/Bubble-0000FF?style=flat&logo=bubble&logoColor=white)
 
 ## 🎯 Objectifs
 - Automatiser et optimiser les processus industriels via des outils No-Code & IA
@@ -24,11 +26,16 @@ Professionnel en reconversion structurée vers la création de produits numériq
 - `.gitignore` et structure de projet propre
 - Commits conventionnels sur chaque projet
 - Conception maquettes avec **Figma** avant de coder
+- * Bases de données No-Code avec Airtable (tables, champs, relations, API token)
+* Connexion Airtable ↔ Bubble via plugin et données dynamiques
+* Design System dans Bubble (styles, typographie, couleurs)
+* Composants réutilisables avec Repeating Groups
 
 ## 📂 Projets en cours
 - 🧱 [parcours-dev](https://github.com/daemonshift/parcours-dev) — Exercices et mini-projets progressifs
 - 🗺️ [roadmap](https://daemonshift.github.io/roadmap/) — Mon suivi de progression
 - 📋 [crm-consultants](https://github.com/daemonshift/crm-consultants) — PRD de mon projet SaaS
+- * 🎨 __clientflow__ — CRM No-Code construit sur Bubble + Airtable (en cours)
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats-nine-pi-szojfjpdmn.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
