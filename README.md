@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Daemonshift
 
-Professionnel en reconversion structurée vers la création de produits numériques et l'automatisation des processus. Technicien Bureau d'Études dans le secteur défense & aéronautique, je développe déjà des outils d'optimisation et d'automatisation des processus industriels dans mon poste actuel. Mon objectif : maîtriser le développement web et les outils No-Code & IA pour proposer ces solutions en freelance et créer mes propres produits digitaux.
+Professionnel en reconversion structurée vers la création de produits numériques et l'automatisation des processus. Technicien Bureau d'Études dans le secteur défense & aéronautique, je développe déjà des outils d'optimisation et d'automatisation des processus industriel. Mon objectif : maîtriser le développement web et les outils No-Code & IA pour proposer ces solutions en freelance et créer mes propres produits digitaux.
 
 ## 🛠️ Stack en cours d'apprentissage
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
