@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Daemonshift
 
-Professionnel en reconversion structurée vers la création de produits numériques et l'automatisation des processus. Technicien Bureau d'Études dans le secteur défense & aéronautique, je développe déjà des outils d'optimisation et d'automatisation des processus industriel. Mon objectif : maîtriser le développement web et les outils No-Code & IA pour proposer ces solutions en freelance et créer mes propres produits digitaux.
+Professionnel en reconversion vers la création de produits numériques. Technicien R&D dans le secteur défense & aéronautique, je construis des outils concrets en combinant développement web, No-Code et IA. Mon objectif : proposer ces compétences en freelance et lancer mon premier SaaS.
 
 ## 🛠️ Stack en cours d'apprentissage
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -10,12 +10,10 @@ Professionnel en reconversion structurée vers la création de produits numériq
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![No-Code](https://img.shields.io/badge/No--Code%20%26%20IA-8B5CF6?style=flat&logo=notion&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Bubble](https://img.shields.io/badge/Bubble-0000FF?style=flat&logo=bubble&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ## 🎯 Objectifs
-- Automatiser et optimiser les processus industriels via des outils No-Code & IA
+- Automatiser les processus industriels via des outils No-Code & IA
 - Développer des solutions digitales sur mesure pour les PME et indépendants
 - Lancer un micro-SaaS CRM pour consultants indépendants
 - Proposer ces compétences en freelance
@@ -23,19 +21,16 @@ Professionnel en reconversion structurée vers la création de produits numériq
 ## 🧪 Bonnes pratiques
 - Tests unitaires avec **Vitest**
 - Fonctions pures et logique testable
-- `.gitignore` et structure de projet propre
 - Commits conventionnels sur chaque projet
 - Conception maquettes avec **Figma** avant de coder
-- * Bases de données No-Code avec Airtable (tables, champs, relations, API token)
-* Connexion Airtable ↔ Bubble via plugin et données dynamiques
-* Design System dans Bubble (styles, typographie, couleurs)
-* Composants réutilisables avec Repeating Groups
+- Gestion de bases de données avec **Airtable** et **Supabase**
+- Intégration d'**APIs** et d'outils **IA** dans les projets
 
-## 📂 Projets en cours
+## 📂 Projets
 - 🧱 [parcours-dev](https://github.com/daemonshift/parcours-dev) — Exercices et mini-projets progressifs
 - 🗺️ [roadmap](https://daemonshift.github.io/roadmap/) — Mon suivi de progression
-- 📋 [crm-consultants](https://github.com/daemonshift/crm-consultants) — PRD de mon projet SaaS
-- * 🎨 __clientflow__ — CRM No-Code construit sur Bubble + Airtable (en cours)
+- 📋 [crm-consultants](https://github.com/daemonshift/crm-consultants) — PRD + maquettes de mon SaaS CRM
+- 🛠️ pdf-tools — Outil interne de traitement PDF 100% local
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats-nine-pi-szojfjpdmn.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
