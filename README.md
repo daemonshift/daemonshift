@@ -18,7 +18,6 @@ Professionnel en reconversion vers la création de produits numériques. Technic
 ## 🎯 Objectifs
 - Automatiser les processus industriels via des outils No-Code & IA
 - Développer des solutions digitales sur mesure pour les PME et indépendants
-- Lancer un micro-SaaS CRM pour consultants indépendants
 - Proposer ces compétences en freelance
 
 ## 🧪 Bonnes pratiques
@@ -30,13 +29,9 @@ Professionnel en reconversion vers la création de produits numériques. Technic
 - Intégration d'**APIs** et d'outils **IA** dans les projets
 
 ## 📂 Projets
-- 🧱 [parcours-dev](https://github.com/daemonshift/parcours-dev) — Exercices et mini-projets progressifs
-- 🗺️ [roadmap](https://daemonshift.github.io/roadmap/) — Mon suivi de progression
-- 📋 [crm-consultants](https://github.com/daemonshift/crm-consultants) — PRD + maquettes de mon SaaS CRM
-- 🛠️ [pdf-tools](https://github.com/daemonshift/pdf-tools) — Outil interne de traitement PDF 100% local
 - 🏕️ [L'Escale de Larcher](https://www.lescaledelarcher.fr) — Site vitrine domaine nature en Dordogne
-- 🏭 [Scalera Systèmes](https://www.scalera-systemes.fr) — Site vitrine entreprise industrielle
-- 📊 [Benchmark App](https://github.com/daemonshift/Benchmark-APP) — Application de benchmark
+- 🏭 [Scalera Systèmes](https://www.scalera-systemes.fr) — Site "Bac à sable"
+- 📊 [Benchmark App](https://github.com/daemonshift/Benchmark-APP) — Application de benchmark & pricing
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats-nine-pi-szojfjpdmn.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
