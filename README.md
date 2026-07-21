@@ -11,6 +11,9 @@ Professionnel en reconversion vers la création de produits numériques. Technic
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat&logoColor=white)
 
 ## 🎯 Objectifs
 - Automatiser les processus industriels via des outils No-Code & IA
@@ -22,7 +25,7 @@ Professionnel en reconversion vers la création de produits numériques. Technic
 - Tests unitaires avec **Vitest**
 - Fonctions pures et logique testable
 - Commits conventionnels sur chaque projet
-- Conception maquettes avec **Figma** avant de coder
+- Conception maquettes avec **Claude Design** avant de coder
 - Gestion de bases de données avec **Airtable** et **Supabase**
 - Intégration d'**APIs** et d'outils **IA** dans les projets
 
@@ -30,8 +33,10 @@ Professionnel en reconversion vers la création de produits numériques. Technic
 - 🧱 [parcours-dev](https://github.com/daemonshift/parcours-dev) — Exercices et mini-projets progressifs
 - 🗺️ [roadmap](https://daemonshift.github.io/roadmap/) — Mon suivi de progression
 - 📋 [crm-consultants](https://github.com/daemonshift/crm-consultants) — PRD + maquettes de mon SaaS CRM
-- 🛠️ pdf-tools — Outil interne de traitement PDF 100% local
+- 🛠️ [pdf-tools](https://github.com/daemonshift/pdf-tools) — Outil interne de traitement PDF 100% local
+- 🏕️ [L'Escale de Larcher](https://www.lescaledelarcher.fr) — Site vitrine domaine nature en Dordogne
+- 🏭 [Scalera Systèmes](https://www.scalera-systemes.fr) — Site vitrine entreprise industrielle
+- 📊 [Benchmark App](https://github.com/daemonshift/Benchmark-APP) — Application de benchmark
 
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats-nine-pi-szojfjpdmn.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
-
