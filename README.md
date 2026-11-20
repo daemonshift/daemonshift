@@ -82,4 +82,4 @@ Je suis ouvert aux opportunités en **développement web / full-stack**, en **co
 
 ## 📈 Activité GitHub
 
-![Stats GitHub](https://github-readme-stats-nine-pi-szojfjpdmn.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=daemonshift&show_icons=true&theme=dark&hide_border=true)
